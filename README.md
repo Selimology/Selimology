@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer who aims to write quality code</h3>
 
 <div align="center">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/Selimology">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=selimology&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=selimology&layout=compact&langs_count=6"/>
 </div>
